@@ -1,0 +1,22 @@
+.text-center
+{
+	
+	color: green;
+}
+body
+{
+	background-color: #ccffe5;
+}
+.container-fluid
+{
+	width: 75%;
+	margin-top: 40px;
+
+}
+.Notitre
+{
+	font-size: 20px;
+	color: #0066ff;
+    
+
+}
